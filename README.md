@@ -1,6 +1,6 @@
 # Hi, I’m Sanjana (@JuJams)
 
-- I’m a junior studying **Computer Science** at **NYU**, focusing on **UI/UX design** and **software development**.
+- I’m a senior studying **Computer Science** at **NYU**, focusing on **UI/UX design** and **software development**.
 - I’m currently learning and diving deeper into **user experience design**, **front-end development**, and **building intuitive interfaces**.
 - Technologies I love working with include **Python**, **Java**, **HTML/CSS**, **React**, and **SQL**.
 - I’m passionate about **design**, **algorithmic problem-solving**, and creating products that bring joy to users.
